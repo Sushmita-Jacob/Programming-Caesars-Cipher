@@ -1,5 +1,6 @@
 # Programming Caesar's Cipher Starter Code
-This is a place for you to start building your Programming Caesar's Cipher Project!
+I created this project for the Girls Who Code Summer Pathways Program 2025. Programming Caesar's Cipher is the third project I made for the Cybersecurity track (five in total). Below are the requirements and information provided by Girls Who Code. This project was also submitted to Hack Club's Athena Award, a technical certificate for female and non-binary coders.
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
 ### Project Requirements
 Your project should:
