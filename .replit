@@ -10,6 +10,7 @@ modules = ["python-3.8"]
 # Specifies which nix channel to use when building the environment.
 [nix]
 channel = "stable-22_11"
+packages = ["gdb"]
 
 [[hints]]
 regex = "stderred: .+GLIBC.+not found"
@@ -29,3 +30,6 @@ requiredFiles = [".replit", "replit.nix", ".config", "venv"]
 
 [deployment]
 run = ["sh", "-c", "python3 main.py"]
+
+[agent]
+expertMode = true
